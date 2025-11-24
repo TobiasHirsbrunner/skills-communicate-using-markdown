@@ -6,13 +6,13 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+# This is a header
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+## This is another header
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
